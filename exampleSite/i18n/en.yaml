@@ -1,0 +1,31 @@
+---
+- id: last_update
+  translation: Última actualización
+- id: phone
+  translation: Teléfono
+- id: email
+  translation: Email
+- id: location
+  translation: Ubicación
+- id: buy_now
+  translation: Comprar ahora
+- id: address_title
+  translation: Haznos una visita
+- id: submit
+  translation: Enviar
+- id: all
+  translation: Todo
+- id: posted_by
+  translation: Publicado por
+- id: read_more
+  translation: Leer más
+- id: latest_posts
+  translation: Últimas publicaciones
+- id: page_prev
+  translation: Anterior
+- id: page_next
+  translation: Siguiente
+- id: tags
+  translation: Etiquetas
+- id: categories
+  translation: Categorías

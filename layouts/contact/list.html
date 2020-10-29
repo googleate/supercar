@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<section class="contact-form">
+    <script 
+            type="text/javascript" src="https://form.jotform.com/jsform/203015811242339">
+    </script>
+</section>
+
+{{ end }}

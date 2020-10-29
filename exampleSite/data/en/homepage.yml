@@ -1,0 +1,79 @@
+---
+banner:
+  enable: true
+  bg_image: images/banner.jpg
+  bg_overlay: false
+  title: Supercar Marbella
+  content: ''
+  button:
+    enable: true
+    label: Ver modelos
+    link: project
+about:
+  enable: true
+  title: Características Técnicas
+  description: |-
+    Nuestros espejos de maquillaje están construídos con los más altos estándares de seguridad y calidad de materiales del mercado, desde los casquillos de las bombillas hasta el pequeño interruptor y las luces LED de alta intensidad con alternencia entre luz cálida y fría para correcto reflejo de la piel.
+
+    Los cristales de los son de 5mm con canto pulido para evitar cortes, los tableros alineados y fáciles de colgar y todos los modelos son personalizables para adaptarnos a tus necesidades con un mando a distancia, número de enchufes, etc.
+  content: ''
+  image: images/wrapper-img.png
+  button:
+    label: Ver espejos
+    enable: false
+    link: ''
+portfolio:
+  enable: true
+  bg_image: images/port.jpg
+  title: ''
+  content: " "
+  button:
+    enable: false
+    label: View Works
+    link: project
+service:
+  enable: true
+  service_item: []
+  title: Test
+  description: Description
+cta:
+  enable: true
+  bg_image: images/call-to-action-bg.jpg
+  title: Un rostro mejor iluminado para un maquillaje perfecto
+  content: La luz es lo más importante para poder apreciar cada detalle de tu estilo.
+    Nuestra iluminación LED profesional ofrece una visión muy detallada y clara del
+    rostro para poder estilizarlo como quieras
+  button:
+    enable: true
+    label: Ver modelos
+    link: project
+funfacts:
+  enable: true
+  title: Acerca de nosotros
+  description: |-
+    Somos una empresa que fabrica espejos de maquillaje a mano con mucho amor y dedicación.
+    Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Clientes contactados
+    count: "125"
+  - icon: ion-ios-glasses-outline
+    name: Modelos diseñados
+    count: "18"
+  - icon: ion-ios-compose-outline
+    name: Peticiones completadas
+    count: "58"
+  - icon: ion-ios-timer-outline
+    name: Días trabajados
+    count: "458"
+  testimonial_slider:
+  - name: César
+    image: images/clients/avater-1.jpg
+    designation: Carpintero electricista
+    content: Me encanta fabricar espejos para maquillaje, le pongo el mayor cariño
+      y dedicación por esto logramos tan buenos resultados y la gente nos recomienda
+  - name: Noelia
+    image: images/clients/avater-3.jpg
+    designation: Diseñadora
+    content: 'Los diseños se hacen pensando siempre en la utilidad para el cliente
+      final y no en el coste y el beneficio empresarial. '
