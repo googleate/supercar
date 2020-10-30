@@ -1,10 +1,10 @@
-baseURL = "espejosdemaquillaje.es"
+baseURL = "supercarmarbella.com"
 disableLanguages = ["fr"]
-disqusShortname = "Espejos de Maquillaje"
+disqusShortname = "Supercar Marbella"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Espejos de Maquillaje"
+title = "Supercar Marbella"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 www.espejosdemaquillaje.es by Santiago Llera"
