@@ -133,13 +133,13 @@ home = ["HTML"]
 [params]
 author = "Santiago Llera"
 contact_form_action = "#"
-description = "Tienda Online de Espejos de maquillaje profesionales en todos los tamaños. Espejos hechos a medida con iluminación de calidad"
-email = "espejosdemaquillaje.es@gmail.com"
+description = "Supercar luxury rent Marbella. Ferrari, Lamborghini, BMW, Mc Laren, Mercedes Benz AMG"
+email = "supercarmarbella@gmail.com"
 google_analitycs_id = ""
-location = "Madrid, España"
+location = "Marbella, España"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "+34 620992550"
+mobile = "+34 663010971"
 multi_author = false
 [params.cookies]
 enable = true
