@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Supercar Marbella"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 www.espejosdemaquillaje.es by Santiago Llera"
+copyright = "Copyright &copy; 2020 www.supercarmarbella.com by Santiago Llera"
 languageCode = "es-Es"
 languageName = "Es"
 weight = "1"
@@ -36,7 +36,7 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "https://espejosdemaquillaje.es/"
+URL = "https://supercarmarbella.com"
 name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
