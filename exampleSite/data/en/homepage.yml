@@ -7,7 +7,7 @@ banner:
   content: ''
   button:
     enable: true
-    label: Ver modelos
+    label: Supercars
     link: project
 about:
   enable: true
