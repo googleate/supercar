@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/banner.jpg
-  bg_overlay: false
+  bg_overlay: true
   title: Supercar Marbella
   content: ''
   button:
